@@ -1,0 +1,15 @@
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.AssemblyInfoInputs.cache
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.AssemblyInfo.cs
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.sourcelink.json
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\bin\Debug\net8.0\Programming-Assignment.exe
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\bin\Debug\net8.0\Programming-Assignment.deps.json
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\bin\Debug\net8.0\Programming-Assignment.runtimeconfig.json
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\bin\Debug\net8.0\Programming-Assignment.dll
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\bin\Debug\net8.0\Programming-Assignment.pdb
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.dll
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\refint\Programming-Assignment.dll
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.pdb
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\Programming-Assignment.genruntimeconfig.cache
+C:\Users\91951\Documents\Company\Working Company\Jala Academy\Programming Language assignemt\Programming-Assignment\obj\Debug\net8.0\ref\Programming-Assignment.dll
