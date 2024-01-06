@@ -11,7 +11,7 @@ class Assignment41
              reverse = reverse + str[i];
          }
         
-        Console.WriteLine("Reverse Name:"+ reverse);
+         Console.WriteLine("Reverse Name:"+ reverse);
 
     }
 }
