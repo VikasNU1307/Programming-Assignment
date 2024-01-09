@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Assignment42 obj = new Assignment42();
-        obj.StringLengthWithoutLibraryFunction();
+        Assignment43 obj = new Assignment43();
+        obj.StringLengthWithCountFunction();
     }
 }
